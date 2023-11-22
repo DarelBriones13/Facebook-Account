@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.briones_registerlogin"},{"l":"REGISTER_LOGIN"}];updateSearchResults();

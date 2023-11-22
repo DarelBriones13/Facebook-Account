@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'C:/Users/WS/Downloads/FACEBOOK-REGISTER-LOGIN-part-4-main/Briones_RegisterLogIn/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/WS/Downloads/FACEBOOK-REGISTER-LOGIN-part-4-main/Briones_RegisterLogIn/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Briones_RegisterLogIn 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Briones_RegisterLogIn 1.0-SNAPSHOT API'
+com.mycompany.briones_registerlogin
+REGISTER_LOGIN
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\src\main\java = 1700512570000
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\allclasses-index.html = 1700633910494
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\allpackages-index.html = 1700633910498
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\copy.svg = 1700633910546
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\element-list = 1700633910306
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\help-doc.html = 1700633910538
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\index-all.html = 1700633910523
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\index.html = 1700633910464
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\member-search-index.js = 1700633910504
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\module-search-index.js = 1700633910499
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\overview-summary.html = 1700633910531
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\overview-tree.html = 1700633910457
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\package-search-index.js = 1700633910501
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\script.js = 1700633910544
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\search-page.js = 1700633910552
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\search.html = 1700633910527
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\search.js = 1700633910549
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\serialized-form.html = 1700633910416
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\stylesheet.css = 1700633910542
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\tag-search-index.js = 1700633910506
+C:\Users\WS\Downloads\FACEBOOK-REGISTER-LOGIN-part-4-main\Briones_RegisterLogIn\target\site\apidocs\type-search-index.js = 1700633910502

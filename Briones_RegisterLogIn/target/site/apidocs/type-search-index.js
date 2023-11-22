@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.briones_registerlogin","l":"Briones_RegisterLogIn"},{"p":"REGISTER_LOGIN","l":"FacebookMain"},{"p":"REGISTER_LOGIN","l":"LOGIN"},{"p":"REGISTER_LOGIN","l":"SignUp"}];updateSearchResults();
