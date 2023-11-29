@@ -5,7 +5,8 @@
 package REGISTER_LOGIN;
 
 import java.io.*;
-import java. util.*;
+import java.nio.file.*;
+import java.util.*;
 public class FacebookMain extends javax.swing.JFrame {
 
 
@@ -119,26 +120,25 @@ public class FacebookMain extends javax.swing.JFrame {
         this.hide();
     }//GEN-LAST:event_btnLogoutActionPerformed
     public void displayUserInfo(String emailOrNum) {
-    try (BufferedReader reader = new BufferedReader(new FileReader(emailOrNum + ".txt"))) {
-        String line;
-        boolean isNameFound = false;
-
-        while ((line = reader.readLine()) != null) {
-            if (line.contains("Name: ")) {
-                String name = line.substring(6).trim(); 
-                lblName.setText(name);
-                isNameFound = true;
-                break;
+        String filePath = "C:\\Users\\WS\\Downloads\\Facebook-Account-main\\Briones_RegisterLogIn\\" + emailOrNum + ".txt";
+        Path path = Paths.get(filePath);
+        
+        if(Files.exists(path)){
+            try{
+                List<String> lines = Files.readAllLines(path);
+                for(int i = 0; i < lines.size(); i++){
+                    String line = lines.get(i);
+                        lblName.setText(lines.get(0));
+                        lblEmail_Num.setText(lines.get(1));
+                        lblGender.setText(lines.get(3));
+                        lblCourse.setText(lines.get(4));
+                        txtHobbies.setText(lines.get(5));
+                        
+                }
+            }catch(IOException e){
+                e.printStackTrace();
             }
         }
-
-        if (!isNameFound) {
-            lblName.setText("Name not found");
-        }
-    } catch (IOException e) {
-        e.printStackTrace();
-        lblName.setText("Error reading user data");
-    }
 }
 
     public static void main(String args[]) {
